@@ -1,4 +1,4 @@
-# NYTubeAnimation ![](https://img.shields.io/badge/language-objectiveC-orange.svg)
+# NYTubeAnimation ![](https://img.shields.io/badge/language-ObjectiveC-orange.svg)
 页面切换指示动画
 
 动画解析教程：http://www.jianshu.com/p/8a569dfd1c4b    
